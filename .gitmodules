@@ -1,0 +1,8 @@
+[submodule "mycloud-android-library"]
+	path = mycloud-android-library
+	url = git://github.com/mycloud/android-library.git
+	branch = master
+[submodule "ocdoc"]
+	path = user_manual/ocdoc
+	url = https://github.com/mycloud/documentation
+	branch = master
